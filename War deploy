@@ -1,4 +1,5 @@
 sudo docker cp container_id:test.war test.war
+https://localhost:4848/common/index.jsf
 
 
 
