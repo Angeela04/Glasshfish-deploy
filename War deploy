@@ -1,0 +1,7 @@
+sudo docker cp container_id:test.war test.war
+
+
+
+
+
+
